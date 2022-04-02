@@ -17,8 +17,8 @@ This is the final test results for the model.
 ## Requirements
 The main requirements are listed below:
 
-* Tensorflow 2.7
-* Python 3.9
+* Tensorflow
+* Python
 * Numpy
 * Matplotlib
 * Open CV
