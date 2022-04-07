@@ -9,7 +9,7 @@ The dataset used for this project has been taken from Plant-Village- Dataset whi
 This is the final test results for the model.
 
 <p>
-	<img src="assets/plot.png" alt="photo not available" width="50%" height="50%">
+	<img src="assets/example.png" alt="photo not available" width="50%" height="50%">
 	<br>
 	<em>plotting Accuracy and Loss.</em>
 </p>
