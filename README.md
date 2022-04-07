@@ -11,7 +11,7 @@ This is the final test results for the model.
 <p>
 	<img src="assets/example.png" alt="photo not available" width="50%" height="50%">
 	<br>
-	<em>plotting Accuracy and Loss.</em>
+	<em>plotting some predictions</em>
 </p>
 
 ## Requirements
